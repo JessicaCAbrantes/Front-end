@@ -9,10 +9,15 @@ A criação de um portfólio de projetos é um passo essencial para consolidar o
 ![image](https://github.com/user-attachments/assets/3f0ec659-dc1c-48a9-a164-81de7348d3f0)
 
 
-### Habilidades desenvolvidas:
+### Tecnologias:
+Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 🔹Html;
 
 🔹Css; 
 
-🔹Javascript.
+🔹Javascript;
+
+🔹Figma;
+
+🔹Git and GitHub.
