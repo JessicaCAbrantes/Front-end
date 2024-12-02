@@ -1,6 +1,6 @@
 # Alura Geek | Challenge Front-End 2024
 
-Visualizar projeto: alurageek2024-9oh0dnwnm-jessica-abrantes-projects.vercel.app
+[Visualizar projeto no versel(alurageek2024-9oh0dnwnm-jessica-abrantes-projects.vercel.app) 
 
 # Detalhes do projeto
 
