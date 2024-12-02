@@ -1,5 +1,7 @@
 # Alura Geek | Challenge Front-End 2024
 
+Visualizar projeto: alurageek2024-9oh0dnwnm-jessica-abrantes-projects.vercel.app
+
 # Detalhes do projeto
 
 Este projeto é o resultado da minha participação na Desafio de Front End da Alura. Por meio de uma abordagem de aprendizado baseado em desafios, nós colocamos nossos conhecimentos em ação resolvendo um desafio do mundo real. A [Alura](https://www.alura.com.br) é uma escola online de tecnologia brasileira.
